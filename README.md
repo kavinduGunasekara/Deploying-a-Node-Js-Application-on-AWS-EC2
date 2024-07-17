@@ -1,10 +1,16 @@
-# Deploying a Node Js Application on AWS EC2
+# Deploying a Node Js Application on AWS EC2(Tutorial from Abhishek.Veeramalla Sir)
+
+Project Priveiw
+![Screenshot 2024-05-09 014342](https://github.com/user-attachments/assets/1fcc1f32-a503-4cee-9876-fee623d7da23)
+
+![Screenshot 2024-05-08 210921](https://github.com/user-attachments/assets/b8b64f3c-27ab-46d0-904a-2fdcb4b4a3a2)
+
+![Screenshot 2024-05-09 014639](https://github.com/user-attachments/assets/eb310cba-2753-41de-92c2-3bfc3077da40)
 
 ### Testing the project locally
-
 1. Clone this project
 ```
-git clone https://github.com/kavinduGunasekara/AWS-Session.git
+git clone https://github.com/kavinduGunasekara/Deploying-a-Node-Js-Application-on-AWS-EC2.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -48,7 +54,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/kavinduGunasekara/AWS-Session.git
+git clone https://github.com/kavinduGunasekara/Deploying-a-Node-Js-Application-on-AWS-EC2.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
